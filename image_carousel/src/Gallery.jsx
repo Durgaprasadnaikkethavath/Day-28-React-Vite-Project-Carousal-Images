@@ -5,6 +5,7 @@ import "./Gallery.css";
 const Gallery = () => {
   return (
     <div>
+      <h1>Carousel Images</h1>
       <h1 style={{ textAlign: "center" }}>Welcome Carousel</h1>
       <Carousel>
         <Carousel.Item>
